@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-twitch-bot",
+  "version": "1.0.0",
+  "description": "A template for a twitchtv bot in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://JonathanDC64@github.com/JonathanDC64/Nodejs-Twitch-Bot.git"
+  },
+  "author": "Jonathan Del Corpo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanDC64/Nodejs-Twitch-Bot/issues"
+  },
+  "homepage": "https://github.com/JonathanDC64/Nodejs-Twitch-Bot#readme"
+}
